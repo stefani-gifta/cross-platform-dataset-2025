@@ -1,3 +1,8 @@
 # Cross-platform Dataset
 
-This dataset contains 1,656 comments from Twitter, Instagram, and TikTok. The initial preprocessed data were manually labeled to be used for sentiment analysis using IndoBERTweet.
+This dataset contains 1,656 comments colelcted from Twitter, Instagram, and TikTok using web scraping.
+The initial preprocessed data were used for sentiment analysis using IndoBERTweet.
+
+## The Constant Variable
+
+To ensure consistency, the viral Indonesian hashtag "#KaburAjaDulu" (#JustRunAwayFirst) was used as the constant variable.

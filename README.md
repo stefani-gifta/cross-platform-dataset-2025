@@ -1,6 +1,6 @@
 # Cross-platform Dataset
 
-This dataset contains 1,656 comments collected from Twitter, Instagram, and TikTok using web scraping for sentiment analysis using IndoBERTweet.
+This dataset contains 1,659 comments collected from Twitter, Instagram, and TikTok using web scraping for sentiment analysis using IndoBERTweet.
 
 ## The Constant Variable
 
